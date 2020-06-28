@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Todo1",
+      "author": {
+        "id": 1,
+        "email": "safonchik@alexandr.ru"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Todo2",
+      "author": {
+        "id": 1,
+        "email": "safonchik@alexandr.ru"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Todo3",
+      "author": {
+        "id": 2,
+        "email": "sidorov@alexandr.ru"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Todo4"
+    }
+  ]
+}
