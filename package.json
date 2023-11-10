@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "mobx": "5.15.4",
     "mobx-state-tree": "3.16.0",
     "normalizr": "3.6.0",
